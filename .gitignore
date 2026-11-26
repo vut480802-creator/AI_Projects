@@ -1,0 +1,14 @@
+# Bỏ qua dữ liệu nặng và file model
+**/data/raw/*
+**/data/processed/*
+**/outputs/models/*
+!**/data/**/.gitkeep
+!**/outputs/**/.gitkeep
+
+# Bỏ qua file tạm của Python và Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+

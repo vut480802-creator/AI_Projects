@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+openpyxl
+xlrd>=2.0.1
